@@ -6,10 +6,8 @@
 
 ---
 
-# This Repo is now set to "LEGACY"
-What does this Mean? - The Positron Project has evolved! We now partner with LDO to produce kits for the new and imporved Positron V3.2
-
-This repo will no longer be updated, and will be moved to [the new Github Repo](https://github.com/Positron3D/Positron) once all files are made available from LDO.
+# This Repo is a work in progress.
+We are still finalizing CAD models with LDO, we will be releasing them as soon as possible, currently aiming for June.
 
 Please join the [The Positron Discord](https://discord.gg/5VCruU6EYv) for the most direct updates, and keep an eye on [Our Website](https://positron3d.com).
 
