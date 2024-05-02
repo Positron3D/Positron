@@ -13,34 +13,6 @@ This repo will no longer be updated, and will be moved to [the new Github Repo](
 
 Please join the [The Positron Discord](https://discord.gg/5VCruU6EYv) for the most direct updates, and keep an eye on [Our Website](https://positron3d.com).
 
-# PositronV3 LINKS:::
-
-[Positron 3D Website](https://positron3d.com)
-
-[Check out our Youtube to see it in action!](https://www.youtube.com/watch?v=X_QLxTVtyng)
-
-[Source Parts and links from here (BOM)](https://docs.google.com/spreadsheets/d/1M--jvOxUEVNc-NtEsor3uPZQsdXsPD1CKWxmc8fwLWI/edit?usp=sharing) or check out the [Alpha Wiki BOM](https://wiki.positron3d.com/books/general-information-getting-started/page/bill-of-materials-self-sourcing-guide)
-
-![alt text](https://github.com/KRLAYN/PositronV3/blob/main/Media%20and%20logos/Photos%20and%20renders/PV3%20with%20printsA.jpg?raw=true)
-
-Upside-down, compact, portable, and super fast 3D printer - `Positron V3` has it all. A compact 3D printer that packs into a filament spool box, so you can take it anywhere you want. This design is looking at a 3D printer less like a stationary machine, but more like a powerful tool in a maker/inventor's tool kit. The printer deploys and folds up in less than 90 seconds, fits easily inside a bag, and prints at 200+mm/s.
-
-**Specs**: 
-- Max Print Speed: `250mm/s`
-- Max Travel Speed: `350mm/s`
-- Acceleration: `9800mm/s^2`
-- Build Volume: `180x185x180mm`
-- Weight: `2700-3100g`
-- Hotend max temp: `250C`
-- Build Plate Max temp: `90C`
-- Power supply: `19-24V; 150-220W`
-
-> Do not treat this design as a finished product. Instead, please see it as a project to be improved upon. When you make this, if you find any improvements, please share it with the community! We could easely have overlooked things; Lets make this printer the best it can be!
-
->**Disclaimer**: `Positron V3` design is a ***functional*** prototype, not a complete product. **There is absolutely no warranty, and you will make this design at your ***OWN*** risk. We will not be responsible for any damages associated with this design**. 
-
-If you like this design, please consider supporting the Positron 3D team via donations; [Paypal](https://donate.positron3d.com)
-
 # Licenses
 
 [![GitHub license](https://img.shields.io/github/license/KRALYN/PositronV3?style=plastic)](https://github.com/KRALYN/PositronV3/blob/master/LICENSE)
