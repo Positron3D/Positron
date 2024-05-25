@@ -1,8 +1,6 @@
 # IMPORTANT FOR THIS FOLDER
-### USE IRONING ON EXTRUDER_MOTOR_PLATE
-`Extruder_Motor_Plate_Endstop - 1x - Primary - ABSorASA - OPTIONAL.stl` is an ***OPTIONAL*** File.
-
-Only print this part if you intend to use a physical endstop.
+### USE IRONING ON Z_DRIVE_OUTER_HOUSING
+These parts require have tight tolerances. Please make sure your printer is tuned.
 
 # FILE NAME KEY:
 `Part Name - Quantity - Recommended Color - Minimum Material Type - Notes`

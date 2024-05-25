@@ -1,3 +1,6 @@
+# IMPORTANT FOR THIS FOLDER
+`Part_Fan_Enclosure_Alt` is an alternative design to the original, it has less supports in the fan duct for more airflow, but may be more difficult to print as it has larger overhangs.
+
 # FILE NAME KEY:
 `Part Name - Quantity - Recommended Color - Minimum Material Type - Notes`
 
