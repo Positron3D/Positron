@@ -2,7 +2,7 @@
 ### USE IRONING ON EXTRUDER_MOTOR_PLATE
 `Extruder_Motor_Plate_Endstop - 1x - Primary - ABSorASA - OPTIONAL.stl` is an ***OPTIONAL*** File.
 
-Only print this part if you intend to use a physical endstop.
+Only print this part if you intend to use a physical endstop for Z Homing, `printer.cfg` changes will be required in your Klipper config.
 
 # FILE NAME KEY:
 `Part Name - Quantity - Recommended Color - Minimum Material Type - Notes`
