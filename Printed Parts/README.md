@@ -20,4 +20,4 @@ This is the `Bed_Cable_Guide`, you need to print One of them, recommended in an 
 This is the `Z_PCB_Spacer`, you need to print One of them, you can use any color, at the minimum in ABS or ASA, and must not be conductive.
 
 # Questions or Comments
-Please feel free to join our discord to help with any feedback. We appreciate any and all feedback that can help us better improve our designs.
+Please feel free to join our [Discord](https://discord.gg/mGDkYZtyNY) to help with any feedback. We appreciate any and all feedback that can help us better improve our designs.
