@@ -1,8 +1,6 @@
 # IMPORTANT FOR THIS FOLDER
-
-`Extruder_Motor_Plate_Endstop - 1x - Primary - ABSorASA - OPTIONAL.stl` is an ***OPTIONAL*** File.
-
-Only print this part if you intend to use a physical endstop.
+The only difference between `Fish_Bone_Grill` and `Slanted_Grill` are the slats in the vent.
+![Style Compare](./Style_Compare.png "Style Compare")
 
 # FILE NAME KEY:
 `Part Name - Quantity - Recommended Color - Minimum Material Type - Notes`
