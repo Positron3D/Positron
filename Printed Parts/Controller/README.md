@@ -1,3 +1,6 @@
+# IMPORTANT FOR THIS FOLDER
+`Back_Plate - 1x - Accent - PLA - Non Conductive - HS` - Requires Heat Set Inserts
+
 # FILE NAME KEY:
 `Part Name - Quantity - Recommended Color - Minimum Material Type - Notes`
 

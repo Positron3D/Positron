@@ -1,4 +1,6 @@
 # IMPORTANT FOR THIS FOLDER
+All files in this folder require Heat Set Inserts, check the guide and the filename. Files ending with ` - HS` require Heat Set Inserts.
+
 ### USE IRONING ON Z_DRIVE_OUTER_HOUSING
 These parts require have tight tolerances. Please make sure your printer is tuned.
 

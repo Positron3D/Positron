@@ -1,5 +1,7 @@
 # IMPORTANT FOR THIS FOLDER
-`Part_Fan_Enclosure_Alt` is an alternative design to the original, it has less supports in the fan duct for more airflow, but may be more difficult to print as it has larger overhangs.
+Many files in this folder require Heat Set Inserts, check the guide and the filename. Files ending with ` - HS` require Heat Set Inserts.
+
+`Part_Fan_Enclosure_Alt` is an alternative design to the original, it has less supports in the fan duct exhaust for more airflow.
 
 # FILE NAME KEY:
 `Part Name - Quantity - Recommended Color - Minimum Material Type - Notes`

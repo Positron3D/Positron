@@ -1,3 +1,6 @@
+# IMPORTANT FOR THIS FOLDER
+`Rear_Idler_Tensioner_Block - 1x - Primary - ABSorASA - HS` - Requires Heat Set Inserts
+
 # FILE NAME KEY:
 `Part Name - Quantity - Recommended Color - Minimum Material Type - Notes`
 

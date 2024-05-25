@@ -1,5 +1,8 @@
 # IMPORTANT FOR THIS FOLDER
 ### USE IRONING ON EXTRUDER_MOTOR_PLATE
+`Extruder_Guidler - 1x - Primary - ABSorASA - HS` - Requires Heat Set Inserts
+`Z_Top_Stopper - 1x - Accent - PLA - HS` - Requires Heat Set Inserts
+
 `Extruder_Motor_Plate_Endstop - 1x - Primary - ABSorASA - OPTIONAL.stl` is an ***OPTIONAL*** File.
 
 Only print this part if you intend to use a physical endstop for Z Homing, `printer.cfg` changes will be required in your Klipper config.
