@@ -2,6 +2,9 @@
 The only difference between `Fish_Bone_Grill` and `Slanted_Grill` are the slats in the vent.
 ![Style Compare](./Style_Compare.png "Style Compare")
 
+`Fish_Bone_Grill` is on the left
+`Slanted_Grill` is on the right
+
 # FILE NAME KEY:
 `Part Name - Quantity - Recommended Color - Minimum Material Type - Notes`
 
