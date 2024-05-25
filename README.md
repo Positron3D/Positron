@@ -13,7 +13,6 @@ Please join the [The Positron Discord](https://discord.gg/5VCruU6EYv) for the mo
 
 # Licenses
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
-**Overall License usage**: `CC-BY-SA-4.0`
 
 If you are manufacturing this 3D printer or a close derivative, please put `Positron Logo` visibily on your product and designate `Positron3D` as the inventor of this product. You can find the file inside the logos folder.
 
