@@ -5,9 +5,24 @@
 </p>
 
 ---
+# Positron V3.2
+Designed by The Positron Team and LDO, the Positron V3.2 is the release version of the original Positron V3 design originally by Kralyn.
+
+## The Positron Team
+The Positron Team was founded by Kralyn and TheNomad after the release of the original Positron V3. Our team has worked closely with LDO to improve upon the original V3 design to make the entire unit more reliable, easier to assemble, and have a more elegant design as a whole.
+
+## What is Positron
+Positron is designed to be an ultra-portable printer. We have succesfully brought The Positron through major US International Airports without issue from TSA, the portability allows this printer to be easily brought along to any major event, remote workshop or maker space, job site, etc. If you have a need to bring a printer with you, The Positron may be the right printer for you.
+
+## Why Positron?
+As mentioned, we wanted an ultra-portable printer while we were in University. While travelling between our dorm and workshops, we often found the desire to bring out Printer with us, since we knew our own printers better than the community ones in the university.
+
+We created the original V3 to achieve this goal, using what parts we had available to us at University. Then, when LDO reached out to us, we attempted to make the original V3 a production kit, but things that worked for our little team in University, didn't quite work out for mass production. As such, we spent 2 years working closely with LDO to make The Positron V3.2, an easy to assemble varient that is far more reliable for mass production.
+
+We are extremely proud of this release, and we cannot wait for people to get their hands on the machines.
 
 # This Repo is a work in progress.
-We are still finalizing CAD models with LDO, we will be releasing them as soon as possible, currently aiming for June.
+We are still finalizing CAD models with LDO, we will be releasing them as soon as possible, currently aiming for Mid/Late June.
 
 Please join the [The Positron Discord](https://discord.gg/5VCruU6EYv) for the most direct updates, and keep an eye on [Our Website](https://positron3d.com).
 
