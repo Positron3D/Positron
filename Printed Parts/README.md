@@ -14,6 +14,7 @@ Please note that the folders here are grouped by assembly, and not by reccomende
  - Perimeters; 5
  - Top/Bottom; 6 Layers
  - Z Drive and Extruder parts require ironing.
+ - No Supports - All pieces requiring supports already have supports included.
 
   
 
