@@ -5,7 +5,7 @@ In each folder, you will find a readme, this will act as a general Key for the n
 
 Please note that the folders here are grouped by assembly, and not by reccomended order of assembly. Please be sure to follow the guides provided on our wiki.
 
-# Reccomended Print Settings
+# Recommended Print Settings
 
  - Line Width; 0.4
  - Layer Height; 0.2
