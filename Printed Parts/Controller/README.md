@@ -1,6 +1,8 @@
 # IMPORTANT FOR THIS FOLDER
 `Back_Plate - 1x - Accent - PLA - Non Conductive - HS` - Requires Heat Set Inserts
 
+If you are using ABS or ASA for the Controller assembly, please scale your parts up by 100.5% to 100.8%, depending on material shrinkage.
+
 # FILE NAME KEY:
 `Part Name - Quantity - Recommended Color - Minimum Material Type - Notes`
 
