@@ -1,7 +1,7 @@
 # IMPORTANT FOR THIS FOLDER
 Many files in this folder require Heat Set Inserts, check the guide and the filename. Files ending with ` - HS` require Heat Set Inserts.
 
-`LED_Cluster_Retainer - 1x - ANY - PLA.stl` is not a visable part.
+`LED_Cluster_Retainer - 1x - Any - ABSorASA - Heat Warning.stl` is not a visable part.
 
 Items marked with `Heat Warning` are near parts that may exceed 60°C such as motors. For this reason, we highly reccomend ABS or ASA for higher heat tolerances.
 
