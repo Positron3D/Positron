@@ -7,6 +7,7 @@ Please note that the folders here are grouped by assembly, and not by reccomende
 
 # Recommended Print Settings
 
+ - We reccomend printing all parts in ABS or ASA, but yuo can print some parts in other colors.
  - Line Width; 0.4
  - Layer Height; 0.2
  - Infill; 40%
