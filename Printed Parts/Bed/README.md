@@ -1,5 +1,5 @@
 # IMPORTANT FOR THIS FOLDER
-`Bed_Spring_Retainer_Ring` - While only 2 are required for assembly, we reccomend printing an extra one just in case.
+`Bed_Spring_Retainer_Ring` - While only 2 are required for assembly, we recommend printing an extra one just in case.
 
 # FILE NAME KEY:
 `Part Name - Quantity - Recommended Color - Notes`

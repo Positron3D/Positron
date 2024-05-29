@@ -1,5 +1,5 @@
 # IMPORTANT FOR THIS FOLDER
-These parts can be printed in any material, as it is just to hold the Filament Spool. We do reccomend you print them in all of the same material type to avoid differences in shrinkage preventing easy assembly.
+These parts can be printed in any material, as it is just to hold the Filament Spool. We do recommend you print them in all of the same material type to avoid differences in shrinkage preventing easy assembly.
 
 # FILE NAME KEY:
 `Part Name - Quantity - Recommended Color - Notes`

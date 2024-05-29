@@ -1,5 +1,5 @@
 # IMPORTANT FOR THIS FOLDER
-Well, not super imporatnt but still - These are just temporary tools that will help with the assembly. We reccomend ABS/ASA for accuracy, but any material will work just as well.
+Well, not super important but still - These are just temporary tools that will help with the assembly. We recommend ABS/ASA for accuracy, but any material will work just as well.
 
 `WirePick` and `XYBeltClamp` should be done in PETG for some flexibility.
 

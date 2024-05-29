@@ -1,13 +1,13 @@
 # Positron v3.2 Printed Parts
 Hello - all of these folders are what is required to build your Postiron.
 
-In each folder, you will find a readme, this will act as a general Key for the naming of the files, as well as a spot where we've added advisories for some parts. This is as simple as informing you if a part will not be seen from the exterior, if a part will be closely intact with a high temperature item such as a motor, or if a part is reccomended to be non-conductive for electrical isolation.
+In each folder, you will find a readme, this will act as a general Key for the naming of the files, as well as a spot where we've added advisories for some parts. This is as simple as informing you if a part will not be seen from the exterior, if a part will be closely intact with a high temperature item such as a motor, or if a part is recommended to be non-conductive for electrical isolation.
 
-Please note that the folders here are grouped by assembly, and not by reccomended order of assembly. Please be sure to follow the guides provided on our wiki.
+Please note that the folders here are grouped by assembly, and not by recommended order of assembly. Please be sure to follow the guides provided on our wiki.
 
 # Recommended Print Settings
 
- - We reccomend printing all parts in ABS or ASA
+ - We recommend printing all parts in ABS or ASA
  - [We're copying Voron's homework;](https://docs.vorondesign.com/sourcing.html#print-settings)
     - Layer height: 0.2mm
     - Extrusion width: 0.4mm
@@ -19,7 +19,7 @@ Please note that the folders here are grouped by assembly, and not by reccomende
 
   
 
-ABS or ASA is the recommended filament for most parts, PLA and PETG can be used for many accent pieces.
+ABS or ASA is the recommended filament for most parts, PLA and PETG can be used for many accent pieces, but please only do so at your own discretion.
 
 # FILE NAME KEY:
 `Part Name - Quantity - Recommended Color - Notes`

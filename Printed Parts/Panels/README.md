@@ -1,7 +1,7 @@
 # IMPORTANT FOR THIS FOLDER
 Many files in this folder require Heat Set Inserts, check the guide and the filename. Files ending with ` - HS` require Heat Set Inserts.
 
-`LED_Cluster_Retainer - 1x - Any - Heat Warning.stl` is not a visable part, residual heat in the area can cause minor warping.
+`LED_Cluster_Retainer - 1x - Any - Heat Warning.stl` is not a visible part, residual heat in the area can cause minor warping.
 
 Items marked with `Heat Warning` are near parts that may exceed 60°C such as motors.
 
