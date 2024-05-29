@@ -17,9 +17,15 @@ Please note that the folders here are grouped by assembly, and not by recommende
     - Solid top/bottom layers: 5
     - Supports: NONE
 
-  
-
 ABS or ASA is the recommended filament for most parts, PLA and PETG can be used for many accent pieces, but please only do so at your own discretion.
+
+# Example Renders
+Below are renders we generated. For reference between "Primary" and "Accent" colors;
+ - Primary Colors; Extruder, Panels, Main Hotend Body
+ - Accent Colors; Control Panel, Vents, End Caps.
+![Example Render 1](./Example_Render_1.png "Example Render 1")
+![Example Render 2](./Example_Render_2.png "Example Render 2")
+![Example Render 3](./Example_Render_3.png "Example Render 3")
 
 # FILE NAME KEY:
 `Part Name - Quantity - Recommended Color - Notes`
