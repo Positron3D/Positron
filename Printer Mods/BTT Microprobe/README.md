@@ -15,7 +15,7 @@ This mod is work in progress, and this will be updated as time goes on. At time 
     - Infill type: grid, gyroid, honeycomb, triangle, or cubic
     - Wall count: 4
     - Solid top/bottom layers: 5
-    - Supports: NONE
+    - Supports: You should be able to get away with none, but you may need a few as there are a few major overhangs.
 
 ABS or ASA is the recommended filament for most parts, PLA and PETG can be used for many accent pieces, but please only do so at your own discretion.
 
