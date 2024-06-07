@@ -1,9 +1,14 @@
 # Positron v3.2 - BTT Microprobe Mod
 This mod allows for a Microprobe to be mounted to the Toolhead.
 
-As of right now, you either have to solder the Microprobe to the toolboard, or wire it directly to the MCU.
+For Wiring reference, please see [LDO's Positron Hardware Repo](https://github.com/MotorDynamicsLab/PositronHardware/tree/master/PositronV3.2).
 
-This mod is work in progress, and this will be updated as time goes on. At time of writing, this mod is untested, my parts are still printing for it.
+The BTT Microprobe is mounted to the modified Fan Shroud here using Three M2x8 screws. An additional Two M2x8 screws are used to attach the BTT Microprobe to the Mount.
+
+The Servo cable is plugged into the SERVOS pins on the MCU - GPIO29
+
+The Probe cable is plugged into the TH0 pins on the MCU - GPIO27
+> Note - TH0 / GPIO27 is unused in stock configuration.
 
 # Recommended Print Settings
 
