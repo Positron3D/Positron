@@ -1,5 +1,5 @@
 # Positron v3.2 - BTT Microprobe Mod
-This mod allows for a Microprobe to be mounted to the Toolhead.
+This mod allows for a Microprobe to be mounted to the Toolhead. You will need supports as the mount is not optimized for printing.
 
 For Wiring reference, please see [LDO's Positron Hardware Repo](https://github.com/MotorDynamicsLab/PositronHardware/tree/master/PositronV3.2).
 
