@@ -21,6 +21,9 @@ We created the original V3 to achieve this goal, using what parts we had availab
 
 We are extremely proud of this release, and we cannot wait for people to get their hands on the machines.
 
+# Mainboard / Daughterboard Schematics
+For Wiring & Piun reference, please see [LDO's Positron Hardware Repo](https://github.com/MotorDynamicsLab/PositronHardware/tree/master/PositronV3.2).
+
 # This Repo is a work in progress.
 We are still finalizing CAD models with LDO, we will be releasing them as soon as possible, currently aiming for Mid/Late June.
 
