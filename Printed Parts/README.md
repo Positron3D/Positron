@@ -7,7 +7,7 @@ Please note that the folders here are grouped by assembly, and not by recommende
 
 # Material needed
  - 198.51g for Primary
- - 170.57g for Secondary
+ - 170.57g for Accent
 
 # Recommended Print Settings
 
