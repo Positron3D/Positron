@@ -5,6 +5,10 @@ In each folder, you will find a readme, this will act as a general Key for the n
 
 Please note that the folders here are grouped by assembly, and not by recommended order of assembly. Please be sure to follow the guides provided on our wiki.
 
+# Material needed
+ - 198.51g for Primary
+ - 170.57g for Secondary
+
 # Recommended Print Settings
 
  - We recommend printing all parts in ABS or ASA
