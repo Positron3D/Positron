@@ -10,6 +10,11 @@ The Servo cable is plugged into the SERVOS pins on the MCU - GPIO29
 The Probe cable is plugged into the TH0 pins on the MCU - GPIO27
 > Note - TH0 / GPIO27 is unused in stock configuration.
 
+# Required Hardware
+- 2x m2.5x10 for Probe Mount
+- 12x 3x2mm Magnets
+- 4x m2.5x6 BHCS (Included in Positron Kit)
+
 # Recommended Print Settings
 
  - We recommend printing all parts in ABS or ASA
