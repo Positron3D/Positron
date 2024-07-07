@@ -1,8 +1,6 @@
 # IMPORTANT FOR THIS FOLDER
 All files in this folder require Heat Set Inserts, check the guide and the filename. Files ending with ` - HS` require Heat Set Inserts.
 
-`Z_Drive_Outer_Housing - 1x - Primary - Experimental - HS - V1.0` - This file has some additional clearances that we're testing, please try this if your Z Motor assembly is binding for some reason. This binding issue has only happened in one of our testing units, but we are providing this on the side of caution.
-
 ### USE IRONING ON Z_DRIVE_OUTER_HOUSING
 These parts require have tight tolerances. Please make sure your printer is tuned.
 
