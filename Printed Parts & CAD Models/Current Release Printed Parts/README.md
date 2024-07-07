@@ -27,6 +27,7 @@ ABS or ASA is the recommended filament for most parts, PLA and PETG can be used 
 Below are renders we generated. For reference between "Primary" and "Accent" colors;
  - Primary Colors; Extruder, Panels, Main Hotend Body
  - Accent Colors; Control Panel, Vents, End Caps.
+ - Any Colors; Non visible parts that will not be seen in the final build.
 
 ![Example Render 1](./Example_Render_1.png "Example Render 1")
 ![Example Render 2](./Example_Render_2.png "Example Render 2")
