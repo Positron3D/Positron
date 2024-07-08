@@ -24,11 +24,6 @@ We are extremely proud of this release, and we cannot wait for people to get the
 # Mainboard / Daughterboard Schematics
 For Wiring & Piun reference, please see [LDO's Positron Hardware Repo](https://github.com/MotorDynamicsLab/PositronHardware/tree/master/PositronV3.2).
 
-# This Repo is a work in progress.
-We are still finalizing CAD models with LDO, we will be releasing them as soon as possible, currently aiming for Mid/Late June.
-
-Please join the [The Positron Discord](https://discord.gg/5VCruU6EYv) for the most direct updates, and keep an eye on [Our Website](https://positron3d.com).
-
 # Licenses
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
