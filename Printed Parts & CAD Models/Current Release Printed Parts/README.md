@@ -21,7 +21,7 @@ Please note that the folders here are grouped by assembly, and not by recommende
     - Solid top/bottom layers: 5
     - Supports: NONE
 
-ABS or ASA is the recommended filament for most parts, PLA and PETG can be used for many accent pieces, but please only do so at your own discretion.
+ABS or ASA is the recommended filament for most parts, PLA and PETG can be used for accent pieces, but please only do so at your own discretion.
 
 # Example Renders
 Below are renders we generated. For reference between "Primary" and "Accent" colors;
