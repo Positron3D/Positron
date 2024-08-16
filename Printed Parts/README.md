@@ -1,3 +1,10 @@
+# NOTICE - IMPORTANT - CRITICAL
+this folder is no longer being updated, please go to [this one](https://github.com/Positron3D/Positron/tree/main/Printed%20Parts%20%26%20CAD%20Models) - Thanks
+
+Now, you may be asking "Hey Nomad, why is this folder not being updated?" And, well, that's kinda my fault, LDO likes to link the printed parts in their guides to github, and I like to keep version numbers in the name. Problem with that; If I change a version number, the LDO guide breaks slightly as it's unable to link back to the part.
+
+SOOOOOO while we fix this, we left the old folder here. Whoopsidoodle. We're working on fixing this in a way that this won't break agian.
+
 # Positron v3.2 Printed Parts
 Hello - all of these folders are what is required to build your Postiron.
 
