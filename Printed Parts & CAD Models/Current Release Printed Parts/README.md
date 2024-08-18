@@ -23,6 +23,9 @@ Please note that the folders here are grouped by assembly, and not by recommende
 
 ABS or ASA is the recommended filament for most parts, PLA and PETG can be used for accent pieces, but please only do so at your own discretion.
 
+## Important Note
+These files are not pre-scaled as modern slicers have a shrinkage factor built in, please be sure to scale your parts accordingly. If you are unsure, try scaling parts by 100.5%
+
 # Example Renders
 Below are renders we generated. For reference between "Primary" and "Accent" colors;
  - Primary Colors; Extruder, Panels, Main Hotend Body
