@@ -22,7 +22,7 @@ We created the original V3 to achieve this goal, using what parts we had availab
 We are extremely proud of this release, and we cannot wait for people to get their hands on the machines.
 
 # Mainboard / Daughterboard Schematics
-For Wiring & Piun reference, please see [LDO's Positron Hardware Repo](https://github.com/MotorDynamicsLab/PositronHardware/tree/master/PositronV3.2).
+For wiring & pin references, please see [LDO's Positron Hardware Repo](https://github.com/MotorDynamicsLab/PositronHardware/tree/master/PositronV3.2).
 
 # Licenses
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
