@@ -2,7 +2,7 @@
 
 To help make getting the latest configs easier[^1], we've flown the Klipper configuration files over to [Positron3D/PositronConfigs](https://github.com/Positron3D/PositronConfigs/) so you can easily download just the latest configurations without having to download the whole repository or individual files, or copy-paste the contents of the files[^2].
 
-This will also make it easier for us to have alternate configuration sets in the future on other branches for common mods or experimental tweaks, so stay tuned and don't print on planes!
+We will also be able to have alternate configuration sets in the future for common mods or experimental tweaks, so stay tuned. In the meantime, don't print on planes!
 
 <p align="center">
    <img width="120px" height="120x" title="Logo" src="../../Media and logos/Logos/Positron V3 logo light.png">
