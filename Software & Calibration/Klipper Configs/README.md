@@ -5,7 +5,7 @@ To help make getting the latest configs easier[^1], we've flown the Klipper conf
 We will also be able to have alternate configuration sets in the future for common mods or experimental tweaks, so stay tuned. In the meantime, happy printing![^2]
 
 <p align="center">
-   <img width="120px" height="120x" title="Logo" src="../../Media and logos/Logos/Positron V3 logo light.png">
+   <img width="120px" height="120x" title="Logo" src="/Media and logos/Logos/Positron V3 logo light.png">
 </p>
 
 [^1]: Except for this time I guess, given you're here...
