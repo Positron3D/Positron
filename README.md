@@ -15,13 +15,19 @@ The Positron Team was founded by Kralyn and TheNomad after the release of the or
 Positron is designed to be an ultra-portable printer. We have succesfully brought The Positron through major US International Airports without issue from TSA, the portability allows this printer to be easily brought along to any major event, remote workshop or maker space, job site, etc. If you have a need to bring a printer with you, The Positron may be the right printer for you.
 
 ## Why Positron?
-As mentioned, we wanted an ultra-portable printer while we were in University. While travelling between our dorm and workshops, we often found the desire to bring out Printer with us, since we knew our own printers better than the community ones in the university.
+As mentioned, we wanted an ultra-portable printer while we were in University. While travelling between our dorm and workshops, we often found the desire to bring our Printer with us, since we knew our own printers better than the community ones in the university.
 
 We created the original V3 to achieve this goal, using what parts we had available to us at University. Then, when LDO reached out to us, we attempted to make the original V3 a production kit, but things that worked for our little team in University, didn't quite work out for mass production. As such, we spent 2 years working closely with LDO to make The Positron V3.2, an easy to assemble varient that is far more reliable for mass production.
 
 We are extremely proud of this release, and we cannot wait for people to get their hands on the machines.
 
-# Mainboard / Daughterboard Schematics
+# Resources
+
+### Klipper Configuration Files
+The most up–to–date Klipper configuration files for setting up or updating the Positron are now in our [config repository](https://github.com/Positron3D/PositronConfig).
+<!--#TODO: Remove "now" a few weeks after merge-->
+
+### Mainboard / Daughterboard Schematics
 For wiring & pin references, please see [LDO's Positron Hardware Repo](https://github.com/MotorDynamicsLab/PositronHardware/tree/master/PositronV3.2).
 
 # Licenses
