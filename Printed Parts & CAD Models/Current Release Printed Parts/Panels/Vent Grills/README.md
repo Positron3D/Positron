@@ -4,6 +4,9 @@ The only difference between `Fish_Bone_Grill` and `Slanted_Grill` are the slats 
 
 `Fish_Bone_Grill` is on the left || `Slanted_Grill` is on the right
 
+# Template Grill Frames
+We've included some Template Grill Frames for poeople to make their own grills - please feel free to experiment and share!
+
 # FILE NAME KEY:
 `Part Name - Quantity - Recommended Color - Notes`
 
