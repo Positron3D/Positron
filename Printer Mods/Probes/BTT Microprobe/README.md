@@ -14,6 +14,7 @@ The Probe cable is plugged into the TH0 pins on the MCU - GPIO27
 - 2x m2.5x10 for Probe Mount
 - 12x 3x2mm Magnets
 - 4x M2.5x6 BHCS (Included in Positron Kit)
+- JST PH 2Pin Female + JST PH 3Pin Female to JST GH 5Pin Female Connector (**not** included with BTT Microprobe)
 
 # Installation Instructions
 1. Glue 6x 3x2mm Magnets into the `Probe_Heatsink_Mount`
