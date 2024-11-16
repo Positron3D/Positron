@@ -5,7 +5,7 @@
 </p>
 
 ---
-# Positron V3.2
+# Positron V3.2.1 - Batch 2
 Designed by The Positron Team and LDO, the Positron V3.2 is the release version of the original Positron V3 design originally by Kralyn.
 
 ## The Positron Team
