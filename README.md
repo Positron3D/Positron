@@ -8,7 +8,7 @@
 > A Note on the LDO Guide;
 > We are working on improving the organization of our github to better prevent broken URLs. We don't have direct edit access to the guide, so we work closely with LDO to update it. However, there will be things missed, slight things out of date, small mistakes, etc. This is more prominent during incremental updates, which we are in the process of doing as of November 13th. Please be sure to join our Discord for the most up to date announcements and discussion as we continue to better utilize the tools at our disposal.
 ---
-# Positron V3.2
+# Positron V3.2.2
 Designed by The Positron Team and LDO, the Positron V3.2 is the release version of the original Positron V3 design originally by Kralyn.
 
 ## The Positron Team
