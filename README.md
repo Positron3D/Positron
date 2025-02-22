@@ -51,7 +51,7 @@ All documentation, including the Wiki, is under the Creative Commons [CC-BY-SA-4
 <img src="./Media%20and%20logos/licenses/licenses.svg" width="300" alt="Open Licenses" />
 </div>
 
-# Exceptions to CC BY-SA 4.0 for LDO Motors – Positron 3D PCBs
+## Exceptions to CC BY-SA 4.0 for LDO Motors – Positron 3D PCBs
 
 The Positron 3D Team grants an exception to the CC BY-SA 4.0 license for PCBs developed for the Positron 3D printer and manufactured by LDO Motors under the following conditions:
 1. Limited Scope: This exception applies only to PCB designs developed by the Positron 3D Team and manufactured by LDO Motors. All other components remain under CC BY-SA 4.0.
