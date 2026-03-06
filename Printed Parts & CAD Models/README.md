@@ -11,6 +11,9 @@ example: Printing the calibration piece at 100.5% yields a measured printed part
 
 NOTE: The 3mf files in the **\#Pre-Sliced Plates folder** default to 101% scale.  This may or may not be appropriate for your printer!  Select all the parts and change the scale to the scale percentage you determined above before slicing.
 
+# Version
+Current Release Printed Parts = Positrion V3.2.2 (includes LDO Batch 3; current as of 2026-03-06).
+
 # Directory
 ## CAD Files
 Exactly what it says - these are the CAD files of the Positron V3.2
