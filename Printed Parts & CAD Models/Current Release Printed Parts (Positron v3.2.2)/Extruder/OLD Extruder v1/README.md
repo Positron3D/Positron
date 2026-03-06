@@ -1,4 +1,11 @@
 # IMPORTANT FOR THIS FOLDER
+
+These are the printed parts for the original / OLD Extruder v1.  The [LDO Assembly Guide](https://ldomotion.com/guides/1---positron-v32---extruder) currently shows the instructions for this.
+
+We do strongly suggest instead using the v2 Extruder if possible.  It is substantially more reliable and performant.
+
+Print information for the OLD Extruder v1 is below:
+
 ### USE IRONING ON EXTRUDER_MOTOR_PLATE
 `Extruder_Guidler - 1x - Primary - HS` - Requires Heat Set Inserts
 
